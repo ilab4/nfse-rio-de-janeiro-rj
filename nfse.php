@@ -1149,6 +1149,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <strong>Namespace Request:</strong> <code>http://nfse.abrasf.org.br</code><br>
             <strong>Namespace Dados:</strong> <code>http://www.abrasf.org.br/nfse.xsd</code><br>
             <strong>Versão:</strong> 2.02 | <strong>IBGE:</strong>3304557<br><br>
-            <strong>Formato SOAP correto (WebISS .asmx):</strong><br>
         </div>
     </div>
